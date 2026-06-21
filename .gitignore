@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# 데이터 / 체크포인트 (용량이 크므로 git에 포함하지 않음)
+data/wikitext/*.bin
+checkpoints/
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 결과물 중 그래프/로그는 README에서 직접 보여주므로 추적, 단 대용량 산출물은 제외
+results/training_curves.png
+
+# OS / 편집기
+.DS_Store
+.vscode/
+.idea/
+
+# 가상환경
+venv/
+.venv/
