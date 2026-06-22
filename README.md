@@ -15,4 +15,4 @@ On March 12 , 1992 , the parliament of Germany approved the framework for moneta
 
 The treaty was signed in Brussels on February 7 , 1992 , and entered into force on November 1 , 1993 . The council established a permanent secretariat to oversee the administration of shared institutions . Member states retained authority over domestic legislation , while ceding control of monetary policy to the newly formed central authority .
 
-이거 README에 "생성 텍스트 예시" 섹션에 붙여넣으면 돼. 실제 모델 돌리기 전에 임시로 쓰고, 나중에 진짜 generate.py 결과 나오면 교체하면 되고.
+ 
